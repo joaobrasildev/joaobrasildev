@@ -1,8 +1,7 @@
 ### Olá! Eu sou o João Brasil
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando flutter
-- 😄 Pronouns: ele/dele
+- 🔭 Back-end developer
+- 🌱 Studying Software architecture, english and flutter
 
 <div>
   <a href="https://github.com/joaobrasildev">
