@@ -1,12 +1,12 @@
-### Olá! Eu sou o João Brasil
+### Hello! My name is João Brasil...
 
-- 🔭 Back-end developer
-- 🌱 Studying Software architecture, english and flutter
+- 🔭 I'm a Back-end developer
+- 🌱 I'm Studying Software architecture, english and flutter
 
 <div>
   <a href="https://github.com/joaobrasildev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobrasildev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrasildev&layout=compact&langs_count=7&theme=dark"/>
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
